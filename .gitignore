@@ -13,3 +13,5 @@ __pycache__/
 *.pyc
 # logs/reports that are large or unnecessary
 *.log
+venv/
+data/plant_disease/*.zip
