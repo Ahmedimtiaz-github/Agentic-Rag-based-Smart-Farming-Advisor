@@ -1,17 +1,13 @@
-# Virtual env
-venv/
-# OS
-.DS_Store
-Thumbs.db
-# Data zips/raw datasets (don't include big raw zips)
-data/plant_disease/
-data/processed/
-# Jupyter checkpoints
-.ipynb_checkpoints/
-# Python compiled
+# Python / environment
 __pycache__/
 *.pyc
-# logs/reports that are large or unnecessary
-*.log
 venv/
-data/plant_disease/*.zip
+env/
+.env
+.ipynb_checkpoints/
+# data, models and logs (do NOT commit large trained models or private data)
+data/
+models/
+logs/
+.DS_Store
+*.sqlite3
