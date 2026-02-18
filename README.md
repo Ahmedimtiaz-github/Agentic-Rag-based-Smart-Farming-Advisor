@@ -2,7 +2,7 @@
 
 An intelligent **Agentic AI system** that combines **Retrieval-Augmented Generation (RAG)** with **agentic workflows** to deliver actionable farming advice — covering **crop recommendation**, **plant disease detection**, and **pest/irrigation management** — all powered by local knowledge bases and deep learning models.
 
-> Built as a capstone project by **M. Ahmed Imtiaz** (Buildables).
+> Built  by **M. Ahmed Imtiaz** (Buildables).
 
 ---
 
@@ -209,7 +209,7 @@ LLM Gen    Predict     (TF/Keras)
 
 ## 📄 License
 
-This project was developed as a Final Year / Capstone Project. Please refer to the repository for any licensing details.
+This project was developed as a "Final Fellowship" Project. Please refer to the repository for any licensing details.
 
 ---
 
